@@ -1,4 +1,4 @@
-# Speakroomz
+# Speakroomz (React Native Expo Mobile Chat Application)
 # Araştırma Teknikleri 2 Bitirme Projesi Raporu
 # [Bitirme projesi Kutay Malik Tatas 19290272.pdf](https://github.com/kutaymalik/Speakroomz/files/11667023/Bitirme.projesi.Kutay.Malik.Tatas.19290272.pdf)
 ![LOGIN_SCREEN](https://github.com/kutaymalik/Speakroomz/assets/56682209/7f77834c-1565-4b80-b759-f8221a187e2a)
